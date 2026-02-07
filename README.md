@@ -2,7 +2,7 @@
 
 ### ✅ Phase 1 — Core API (MVP)
 
-- [ ] Create entities (e.g. `Bookmark`, `User`)
+- [ x ] Create entities (e.g. `Bookmark`, `User`)
 - [ ] Configure PostgreSQL database
 - [ ] EF Core migrations
 - [ ] CRUD endpoints
