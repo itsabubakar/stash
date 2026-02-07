@@ -1,0 +1,28 @@
+## .NET
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## Visual Studio
+.vs/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## Secrets
+appsettings.Development.json
+appsettings.Production.json
